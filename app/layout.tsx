@@ -1,5 +1,5 @@
-import Header from "./Shared/Header";
-import Sidebar from "./Shared/Sidebar";
+import Header from "./components/shared/Header";
+import Sidebar from "./components/shared/Sidebar";
 import { Providers } from "./config/provider";
 import "./globals.css";
 
