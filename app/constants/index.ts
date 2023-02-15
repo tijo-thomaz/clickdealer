@@ -1,4 +1,4 @@
 export const API_CONSTANT = {
-    BASE_URL: 'http://localhost:3004',
+    BASE_URL: 'https://my-json-server.typicode.com/tijo-thomaz/clickdealer',
     GET_INVENTORTY_LIST:`/vehicleInventory`,
 }
