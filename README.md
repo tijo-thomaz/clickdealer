@@ -1,4 +1,4 @@
-<h1> Next Js Tailwind @redux-toolkit react-query </h1>
+<h1> Next Js 13 Tailwind @redux-toolkit react-query </h1>
 <h2> Clickdealer app </h2>
 
 
