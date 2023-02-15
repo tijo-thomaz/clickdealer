@@ -13,3 +13,7 @@
  - copy and create the data.json in local 
  - npm intall json-server 
  - json-server --watch data.json --port 3004
+
+
+<h3>Prerequisites</h3>
+ - node js https://nodejs.org/en/download/
