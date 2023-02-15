@@ -2,8 +2,8 @@
 import { getVehicleInventoryList, getVehicleInventoryListItem, updateVehicleInventoryListItem } from "@/app/service";
 import { useReducer } from "react";
 import { useMutation, useQuery, useQueryClient } from "react-query";
-import ErrorComponent from "../../shared/ErrorComponent";
-import Success from "../../shared/SuccessToast";
+import ErrorComponent from "../../../shared/ErrorComponent";
+import Success from "../../../shared/SuccessToast";
 
 function UpdateForm({ formId, formState, formDataDispatch }: any) {
   const { isError, isLoading, data, error } = useQuery(

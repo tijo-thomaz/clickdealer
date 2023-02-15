@@ -4,7 +4,7 @@ import { BiPlus } from "react-icons/bi";
 import Form from "./Form";
 import { useSelector, useDispatch } from "react-redux";
 import { deleteAction, toggleChangeAction } from "@/slices/inventorySlice";
-import ConfirmationDialog from "../../shared/ConfirmationDialog";
+import ConfirmationDialog from "../../../shared/ConfirmationDialog";
 import { deleteVehicleInventoryListItem, getVehicleInventoryList } from "@/app/service";
 import { useQueryClient } from "react-query";
 
