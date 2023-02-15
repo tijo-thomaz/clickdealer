@@ -16,4 +16,7 @@
 
 
 <h3>Prerequisites</h3>
- - node js https://nodejs.org/en/download/
+
+ -  node js https://nodejs.org/en/download/
+ 
+ -  json server https://www.npmjs.com/package/json-server npm install -g json-server
