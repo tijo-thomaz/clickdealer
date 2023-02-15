@@ -3,7 +3,7 @@
     {
       "id": 1,
       "vehicleName": "Mini Cooper",
-      "vehicleModel": "hybrid",
+      "vehicleModel": "Tesla",
       "price": "10000",
       "daysInStock": "1222",
       "location": "manchester"
@@ -19,18 +19,10 @@
     {
       "vehicleName": "tesla",
       "id": 4,
-      "vehicleModel": "v3",
+      "vehicleModel": "v34",
       "price": "100000",
       "daysInStock": "3",
       "location": "picadelly"
-    },
-    {
-      "vehicleName": "test",
-      "vehicleModel": "test",
-      "price": "test",
-      "daysInStock": "test",
-      "location": "test",
-      "id": 5
     }
   ]
 }
