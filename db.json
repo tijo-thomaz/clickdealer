@@ -1,0 +1,28 @@
+{
+    "vehicleInventory": [
+      {
+        "id": 1,
+        "vehicleName": "Mini Cooper",
+        "vehicleModel": "Tesla",
+        "price": "10000",
+        "daysInStock": "1222",
+        "location": "manchester"
+      },
+      {
+        "vehicleName": "Ford Eco sport",
+        "id": 3,
+        "vehicleModel": "Diesel",
+        "price": "1200",
+        "daysInStock": "3",
+        "location": "stokport"
+      },
+      {
+        "vehicleName": "tesla",
+        "id": 4,
+        "vehicleModel": "v34",
+        "price": "100000",
+        "daysInStock": "3",
+        "location": "picadelly"
+      }
+    ]
+  }
