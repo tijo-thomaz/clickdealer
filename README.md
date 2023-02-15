@@ -1,9 +1,15 @@
-Step 1:  run in command line ->    git clone https://github.com/tijo-thomaz/clickdealer.git
-Step 2:  run in command line ->  cd clickdealer    npm install
-Step 3:  run in command line ->    npm run server
-Step 4:  run in new command line terminal ->    npm run dev
-Step 5:  Open browser -> new tab -> http://localhost:3000/
+<h1> Next Js Tailwind @redux-toolkit react-query </h1>
+<h2> Clickdealer app </h2>
 
-Git Repo for the validation GitHub - tijo-thomaz/clickdealer
 
-Additionally, after running the server in step 3  Test (clickdealer.vercel.app) can be used
+- Step 1:  run in command line ->    git clone https://github.com/tijo-thomaz/clickdealer.git
+- Step 2:  run in command line ->  cd clickdealer    npm install
+- Step 3:  run in command line ->    npm run server
+- Step 4:  run in new command line terminal ->    npm run dev
+- Step 5:  Open browser -> new tab -> http://localhost:3000/ 
+
+<h3>Instruction to view https://clickdealer.vercel.app </h3>
+
+ - copy and create the data.json in local 
+ - npm intall json-server 
+ - json-server --watch data.json --port 3004
