@@ -1,4 +1,4 @@
 export const API_CONSTANT = {
-    BASE_URL: 'http://localhost:3004',
+    BASE_URL: 'https://mockdb.onrender.com',
     GET_INVENTORTY_LIST:`/vehicleInventory`,
 }
