@@ -1,8 +1,8 @@
 "use client"
-import Success from "../../../Shared/SuccessToast";
+import Success from "../../../shared/SuccessToast";
 import {useQueryClient,useMutation} from 'react-query';
 import { getVehicleInventoryList, setVehicleInventoryListItem } from "@/app/service";
-import ErrorComponent from "../../../Shared/ErrorComponent";
+import ErrorComponent from "../../../shared/ErrorComponent";
 function AddForm({formState,formDataDispatch}:any) {
 ;
   const queryClient=useQueryClient()
